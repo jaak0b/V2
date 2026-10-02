@@ -1,0 +1,33 @@
+{
+  "anchors": {
+    "0": {
+      "anchor_frequency": 3223924.518119999,
+      "anchor_height": -24.112499999984685,
+      "center_x": 101.17486357643462,
+      "center_y": -19.366431950206774,
+      "curve_high_z": 5.4994999999912,
+      "curve_low_z": 3.4994999999905327,
+      "drive_current": 15.0,
+      "observed_temperature": 150.12239132917776,
+      "sensor_clock": 12000000.0,
+      "setpoint_temperature": 150.0,
+      "trigger_z": 28.611999999975552,
+      "updated": "2026-08-28T22:29:30Z"
+    },
+    "1": {
+      "anchor_frequency": 3223279.7597999997,
+      "anchor_height": -23.983749999984802,
+      "center_x": 101.12562316215582,
+      "center_y": -19.066894144441655,
+      "curve_high_z": 5.49949999998256,
+      "curve_low_z": 3.4994999999818925,
+      "drive_current": 15.0,
+      "observed_temperature": 149.64315529531856,
+      "sensor_clock": 12000000.0,
+      "setpoint_temperature": 150.0,
+      "trigger_z": 28.48324999996703,
+      "updated": "2026-08-28T22:31:29Z"
+    }
+  },
+  "version": 1
+}
